@@ -1,3 +1,5 @@
+exam_name_biogne
+
 WITH structurally_cleaned AS (
     SELECT distinct
         exam_name AS exam_name_raw,
